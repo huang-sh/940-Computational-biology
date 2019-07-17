@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "includePath": [
+                "C:\\Program Files\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++",
+                "${workspaceFolder}/**",
+                "C:/Program Files/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "C:/Program Files/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "C:/Program Files/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "C:/Program Files/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "C:/Program Files/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "C:/Program Files/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+
+
+          ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "C:/Program Files/LLVM/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
