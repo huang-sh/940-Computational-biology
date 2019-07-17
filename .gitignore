@@ -1,2 +1,3 @@
 # vs code configurations:
 .vscode/*.json
+*.exe
