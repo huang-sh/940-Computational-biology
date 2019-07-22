@@ -1,7 +1,7 @@
 /*
  * @Author: huangsh
  * @Date: 2019-07-22 11:51:56
- * @Description: 计算核苷酸多态性（2017/六）
+ * @Description: 计算核苷酸多态性（2018/六）
  * 题目详情见 核苷酸多态性.md, 程序使用序列见 dna_seq.fasta
  */
 
